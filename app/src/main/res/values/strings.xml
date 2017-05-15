@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Şans Oyunları Kupon Oluşturucu</string>
+    <string name="game_selector">Oyun türünü seçiniz:</string>
+    <string name="column_selector">Kolon Sayısını Seçiniz:</string>
+    <string name="unique_check">Tüm sayılar eşsiz olsun.</string>
+    <string name="create_button">KUPON OLUŞTUR</string>
+    <string-array name="games_array">
+        <item>Sayısal Loto</item>
+        <item>Süper Loto</item>
+        <item>On Numara</item>
+        <item>Şans Topu</item>
+    </string-array>
+    <string name="alert_title">Bilgi</string>
+    <string name="alert_message_onnumara">On Numara oyununda en fazla 3 kolonla eşsiz kupon oluşturulabilir.</string>
+    <string name="alert_message_sanstopu">Şans Topu oyununda kolonun son hanesindeki sayı kendisinden önceki hanelerle aynı olabilir.</string>
+</resources>
